@@ -1,0 +1,63 @@
+PokerStars Game #32774629491: Tournament #193236886, $5.00+$0.50 USD Omaha Hi/Lo Pot Limit - Level II (15/30) - 2009/09/12 21:51:03 ET
+Table '193236886 27' 9-max Seat #6 is the button
+Seat 1: Voltaire2323 (240 in chips) 
+Seat 2: sukru37 (16219 in chips) 
+Seat 3: whipp24 (2690 in chips) 
+Seat 4: limpDitka (3065 in chips) 
+Seat 5: RoundRounder (2880 in chips) 
+Seat 6: 4wheelin007 (4613 in chips) 
+Seat 7: bsharp17 (2510 in chips) 
+Seat 8: reveange1 (5889 in chips) 
+Seat 9: bigcats1 (3434 in chips) 
+bsharp17: posts small blind 15
+reveange1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bsharp17 [6c 4h 4c 2h]
+bigcats1: folds 
+Voltaire2323: calls 30
+sukru37: raises 30 to 60
+whipp24: folds 
+limpDitka: folds 
+RoundRounder: folds 
+4wheelin007: calls 60
+bsharp17: calls 45
+reveange1: calls 30
+Voltaire2323: calls 30
+*** FLOP *** [Td Kd 3h]
+bsharp17: checks 
+reveange1: bets 210
+Voltaire2323: calls 180 and is all-in
+sukru37: calls 210
+4wheelin007: calls 210
+bsharp17: folds 
+*** TURN *** [Td Kd 3h] [7c]
+reveange1: bets 1080
+sukru37: calls 1080
+4wheelin007: calls 1080
+*** RIVER *** [Td Kd 3h 7c] [6s]
+reveange1: bets 4350
+sukru37: calls 4350
+4wheelin007: calls 3263 and is all-in
+*** SHOW DOWN ***
+reveange1: shows [3c Ts Jc Kh] (HI: two pair, Kings and Tens)
+sukru37: shows [Jd 2c 4d 7d] (HI: a pair of Sevens; LO: 7,6,4,3,2)
+reveange1 collected 1087 from side pot-2 
+sukru37 collected 1087 from side pot-2 
+4wheelin007: shows [As 4s 5c Th] (HI: a straight, Three to Seven; LO: 7,6,4,3,A)
+4wheelin007 collected 6560 from side pot-1 
+4wheelin007 collected 6559 from side pot-1 
+Voltaire2323: mucks hand 
+4wheelin007 collected 510 from main pot
+4wheelin007 collected 510 from main pot
+*** SUMMARY ***
+Total pot 16313 Main pot 1020. Side pot-1 13119. Side pot-2 2174. | Rake 0 
+Board [Td Kd 3h 7c 6s]
+Seat 1: Voltaire2323 mucked [Qc Qh 3s Qd]
+Seat 2: sukru37 showed [Jd 2c 4d 7d] and won (1087) with HI: a pair of Sevens; LO: 7,6,4,3,2
+Seat 3: whipp24 folded before Flop (didn't bet)
+Seat 4: limpDitka folded before Flop (didn't bet)
+Seat 5: RoundRounder folded before Flop (didn't bet)
+Seat 6: 4wheelin007 (button) showed [As 4s 5c Th] and won (14139) with HI: a straight, Three to Seven; LO: 7,6,4,3,A
+Seat 7: bsharp17 (small blind) folded on the Flop
+Seat 8: reveange1 (big blind) showed [3c Ts Jc Kh] and won (1087) with HI: two pair, Kings and Tens
+Seat 9: bigcats1 folded before Flop (didn't bet)

@@ -1,0 +1,9 @@
+obj
+bin
+_UpgradeReport.*
+*.csproj.user
+*.suo
+*.cache
+*~
+*.swp
+TestResult.xml

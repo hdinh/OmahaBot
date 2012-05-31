@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7B037F3E-BB32-4653-921C-8E050A2C2FF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OmahaBot.Core</RootNamespace>
+    <AssemblyName>OmahaBot.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;CODE_ANALYSIS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BinaryCloneable.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="HandWinner.cs" />
+    <Compile Include="IGameInfo.cs" />
+    <Compile Include="HandHistory.cs" />
+    <Compile Include="HandHistoryPlayerCollection.cs" />
+    <Compile Include="HandHistoryPokerAction.cs" />
+    <Compile Include="HandReader.cs" />
+    <Compile Include="HandResult.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="IGameObserver.cs" />
+    <Compile Include="OmahaException.cs" />
+    <Compile Include="OmahaHandHash.cs" />
+    <Compile Include="OmahaHiLoHand.cs" />
+    <Compile Include="OmahaHandHighEvaluator.cs" />
+    <Compile Include="OmahaHandLowEvaluator.cs" />
+    <Compile Include="OmahaPlayer.cs" />
+    <Compile Include="HandHistoryPlayer.cs" />
+    <Compile Include="PlayerId.cs" />
+    <Compile Include="PokerAction.cs" />
+    <Compile Include="ActionType.cs" />
+    <Compile Include="PokerSite.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ThirdParty\HandEvaluator\HandEvaluator.csproj">
+      <Project>{57836673-FE81-4367-A4EB-AAA46FB954D2}</Project>
+      <Name>HandEvaluator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\OmahaBot.Utilities.csproj">
+      <Project>{D753B8AA-2E8D-43D5-8299-A62F2ED24B84}</Project>
+      <Name>OmahaBot.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(ProgramFiles)\MSBuild\Microsoft\StyleCop\v4.3\Microsoft.StyleCop.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

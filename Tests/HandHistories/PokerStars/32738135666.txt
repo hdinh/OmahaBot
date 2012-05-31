@@ -1,0 +1,24 @@
+PokerStars Game #32738135666: Tournament #193236913, $4.04+$0.40 USD Omaha Hi/Lo Pot Limit - Level V (75/150) - 2009/09/11 23:17:28 ET
+Table '193236913 92' 4-max Seat #4 is the button
+Seat 1: jbyrne1949 (2757 in chips) 
+Seat 2: bsharp17 (2450 in chips) 
+Seat 3: Cajun 1986 (4836 in chips) 
+Seat 4: DimalASS (10462 in chips) 
+jbyrne1949: posts small blind 75
+bsharp17: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bsharp17 [2h 8d Qc 7s]
+Cajun 1986: calls 150
+DimalASS: calls 150
+jbyrne1949: raises 600 to 750
+bsharp17: folds 
+Cajun 1986: folds 
+DimalASS: folds 
+Uncalled bet (600) returned to jbyrne1949
+jbyrne1949 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: jbyrne1949 (small blind) collected (600)
+Seat 2: bsharp17 (big blind) folded before Flop
+Seat 3: Cajun 1986 folded before Flop
+Seat 4: DimalASS (button) folded before Flop

@@ -1,0 +1,46 @@
+PokerStars Game #32738412212: Tournament #193236948, $10+$1 USD Omaha Pot Limit - Level I (10/20) - 2009/09/11 23:27:36 ET
+Table '193236948 5' 9-max Seat #2 is the button
+Seat 1: Otis X (5670 in chips) 
+Seat 2: ELSterner (8200 in chips) 
+Seat 4: bjg7574 (2920 in chips) 
+Seat 5: pokershaye (3570 in chips) 
+Seat 6: DAVID WILLAM (6350 in chips) 
+Seat 7: jumbone1 (6240 in chips) 
+Seat 8: dubbydubby (3130 in chips) 
+Seat 9: Ferndog79 (2920 in chips) 
+bjg7574: posts small blind 10
+pokershaye: posts big blind 20
+*** HOLE CARDS ***
+DAVID WILLAM: folds 
+jumbone1: folds 
+dubbydubby: folds 
+Otis X said, "nh"
+Ferndog79: calls 20
+Otis X: raises 60 to 80
+ELSterner: folds 
+bjg7574: calls 70
+metaren is connected 
+pokershaye: calls 60
+Ferndog79: calls 60
+*** FLOP *** [5d 2c 6d]
+bjg7574: checks 
+pokershaye: checks 
+Ferndog79: checks 
+Otis X: bets 160
+bjg7574: folds 
+pokershaye: folds 
+Ferndog79: folds 
+Uncalled bet (160) returned to Otis X
+metaren re-buys and receives 3000 chips for $10.00
+Otis X collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [5d 2c 6d]
+Seat 1: Otis X collected (320)
+Seat 2: ELSterner (button) folded before Flop (didn't bet)
+Seat 4: bjg7574 (small blind) folded on the Flop
+Seat 5: pokershaye (big blind) folded on the Flop
+Seat 6: DAVID WILLAM folded before Flop (didn't bet)
+Seat 7: jumbone1 folded before Flop (didn't bet)
+Seat 8: dubbydubby folded before Flop (didn't bet)
+Seat 9: Ferndog79 folded on the Flop

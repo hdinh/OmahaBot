@@ -1,0 +1,36 @@
+PokerStars Game #32776254738: Tournament #193236886, $5.00+$0.50 USD Omaha Hi/Lo Pot Limit - Level V (75/150) - 2009/09/12 22:53:04 ET
+Table '193236886 27' 9-max Seat #4 is the button
+Seat 1: igotskillz (10264 in chips) 
+Seat 2: roaminglion (4530 in chips) 
+Seat 3: whipp24 (5526 in chips) 
+Seat 4: limpDitka (5790 in chips) 
+Seat 5: joe82 (2506 in chips) 
+Seat 6: 4wheelin007 (12549 in chips) 
+Seat 7: bsharp17 (8209 in chips) 
+Seat 8: lilgirlntx (3913 in chips) 
+Seat 9: PowerDude300 (2137 in chips) 
+joe82: posts small blind 75
+4wheelin007: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bsharp17 [Kc 3h 9s Ts]
+bsharp17: folds 
+lilgirlntx: folds 
+PowerDude300: folds 
+igotskillz: folds 
+roaminglion: folds 
+whipp24: folds 
+limpDitka: folds 
+joe82: folds 
+Uncalled bet (75) returned to 4wheelin007
+4wheelin007 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: igotskillz folded before Flop (didn't bet)
+Seat 2: roaminglion folded before Flop (didn't bet)
+Seat 3: whipp24 folded before Flop (didn't bet)
+Seat 4: limpDitka (button) folded before Flop (didn't bet)
+Seat 5: joe82 (small blind) folded before Flop
+Seat 6: 4wheelin007 (big blind) collected (150)
+Seat 7: bsharp17 folded before Flop (didn't bet)
+Seat 8: lilgirlntx folded before Flop (didn't bet)
+Seat 9: PowerDude300 folded before Flop (didn't bet)

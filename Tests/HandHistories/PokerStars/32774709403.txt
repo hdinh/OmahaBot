@@ -1,0 +1,52 @@
+PokerStars Game #32774709403: Tournament #193236886, $5.00+$0.50 USD Omaha Hi/Lo Pot Limit - Level II (15/30) - 2009/09/12 21:53:59 ET
+Table '193236886 27' 9-max Seat #8 is the button
+Seat 1: igotskillz (3000 in chips) 
+Seat 2: sukru37 (11876 in chips) 
+Seat 3: whipp24 (2660 in chips) 
+Seat 4: limpDitka (3065 in chips) 
+Seat 5: RoundRounder (2880 in chips) 
+Seat 6: 4wheelin007 (14109 in chips) 
+Seat 7: bsharp17 (2450 in chips) 
+Seat 8: reveange1 (1096 in chips) 
+Seat 9: bigcats1 (3404 in chips) 
+bigcats1: posts small blind 15
+igotskillz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bsharp17 [4d Ks Qh Jh]
+sukru37: folds 
+whipp24: raises 75 to 105
+limpDitka: folds 
+RoundRounder: folds 
+4wheelin007: folds 
+bsharp17: folds 
+reveange1: raises 255 to 360
+bigcats1: calls 345
+igotskillz: folds 
+whipp24: raises 1110 to 1470
+reveange1: calls 736 and is all-in
+bigcats1: calls 1110
+*** FLOP *** [9d 3c Ts]
+bigcats1: checks 
+whipp24: bets 1190 and is all-in
+bigcats1: calls 1190
+*** TURN *** [9d 3c Ts] [3d]
+*** RIVER *** [9d 3c Ts 3d] [As]
+*** SHOW DOWN ***
+bigcats1: shows [9s Ac 5s 6h] (HI: two pair, Aces and Nines)
+whipp24: shows [8h Kh Ad Ah] (HI: a full house, Aces full of Threes)
+whipp24 collected 3128 from side pot
+reveange1: shows [2c 3h 9h 7c] (HI: a full house, Threes full of Nines)
+whipp24 collected 3318 from main pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 6446 Main pot 3318. Side pot 3128. | Rake 0 
+Board [9d 3c Ts 3d As]
+Seat 1: igotskillz (big blind) folded before Flop
+Seat 2: sukru37 folded before Flop (didn't bet)
+Seat 3: whipp24 showed [8h Kh Ad Ah] and won (6446) with HI: a full house, Aces full of Threes
+Seat 4: limpDitka folded before Flop (didn't bet)
+Seat 5: RoundRounder folded before Flop (didn't bet)
+Seat 6: 4wheelin007 folded before Flop (didn't bet)
+Seat 7: bsharp17 folded before Flop (didn't bet)
+Seat 8: reveange1 (button) showed [2c 3h 9h 7c] and lost with HI: a full house, Threes full of Nines
+Seat 9: bigcats1 (small blind) showed [9s Ac 5s 6h] and lost with HI: two pair, Aces and Nines

@@ -1,0 +1,64 @@
+PokerStars Game #32616487533: Tournament #193236693, $20+$2 USD Omaha Hi/Lo Pot Limit - Level III (25/50) - 2009/09/08 20:08:33 ET
+Table '193236693 24' 9-max Seat #2 is the button
+Seat 1: bsharp17 (3000 in chips) 
+Seat 2: sparky_67 (2246 in chips) 
+Seat 3: Roamingpete (4448 in chips) 
+Seat 4: mehkai (3127 in chips) 
+Seat 5: KO King (2156 in chips) 
+Seat 6: clbmkr31 (2685 in chips) 
+Seat 7: HPLOVER (3795 in chips) 
+Seat 8: Suspekt1976 (2835 in chips) 
+Seat 9: the_schmenx (2738 in chips) 
+Roamingpete: posts small blind 25
+mehkai: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bsharp17 [3d 2d Ad Qs]
+KO King: raises 100 to 150
+clbmkr31: calls 150
+HPLOVER: folds 
+Suspekt1976: folds 
+the_schmenx: calls 150
+bsharp17: calls 150
+sparky_67: folds 
+Roamingpete: calls 125
+mehkai: calls 100
+*** FLOP *** [6c 4h 6h]
+Roamingpete: checks 
+mehkai: checks 
+KO King: checks 
+clbmkr31: checks 
+the_schmenx: checks 
+bsharp17: bets 150
+Roamingpete: calls 150
+mehkai: folds 
+KO King: calls 150
+clbmkr31: folds 
+the_schmenx: folds 
+*** TURN *** [6c 4h 6h] [8d]
+Roamingpete: checks 
+KO King: checks 
+bsharp17: checks 
+*** RIVER *** [6c 4h 6h 8d] [Qc]
+Roamingpete: checks 
+KO King: bets 1350
+bsharp17: calls 1350
+Roamingpete: folds 
+*** SHOW DOWN ***
+KO King: shows [2c 2s Qd As] (HI: two pair, Queens and Sixes; LO: 8,6,4,2,A)
+bsharp17: shows [3d 2d Ad Qs] (HI: two pair, Queens and Sixes; LO: 8,6,4,2,A)
+KO King collected 1013 from pot
+bsharp17 collected 1012 from pot
+KO King collected 1013 from pot
+bsharp17 collected 1012 from pot
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Board [6c 4h 6h 8d Qc]
+Seat 1: bsharp17 showed [3d 2d Ad Qs] and won (2024) with HI: two pair, Queens and Sixes; LO: 8,6,4,2,A
+Seat 2: sparky_67 (button) folded before Flop (didn't bet)
+Seat 3: Roamingpete (small blind) folded on the River
+Seat 4: mehkai (big blind) folded on the Flop
+Seat 5: KO King showed [2c 2s Qd As] and won (2026) with HI: two pair, Queens and Sixes; LO: 8,6,4,2,A
+Seat 6: clbmkr31 folded on the Flop
+Seat 7: HPLOVER folded before Flop (didn't bet)
+Seat 8: Suspekt1976 folded before Flop (didn't bet)
+Seat 9: the_schmenx folded on the Flop
